@@ -4,7 +4,7 @@
  
 
 
-##                           ************ WashU Mortality Prediction Contribution **************
+
 
 ## Research Design
 
@@ -41,8 +41,8 @@ The mortality prediction algorithms accepted to the Challenge will be evaluated 
 |Aug 31, 2019|Complete identification of the data fields required for the synthetic data set. Determine all data selection criteria (EHR date range, Patient age range etc.)|	Not Started                    |
 |Sep 30, 2019|Produce the synthetic data file.                                               |	Not Started |
 |Oct 31, 2019|Participate in defining the Challenge                                          |Not Started        	| 
-|Dec 31, 2019|Create and execute a use case that compares Algorithm results produced from synthetic data to results produced from University of Washington data.        |Not Started	-------------------|
-|Mar 31, 2020|Participate in evaluating algorithms submitted to the challenge                |Not Started	-------------------|
+|Dec 31, 2019|Create and execute a use case that compares Algorithm results produced from synthetic data to results produced from University of Washington data.        |Not Started	|
+|Mar 31, 2020|Participate in evaluating algorithms submitted to the challenge                |Not Started	|
 
 
 
