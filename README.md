@@ -35,9 +35,14 @@ Deliverables
 •	Design of additional predictive model use cases
 
 Timeline (monthly)
-|  Due Date  |                    Milestone                                                  |            Status              |
+
+|Due Date    |Milestone                                                                      |Status                          |
 |------------|-------------------------------------------------------------------------------|--------------------------------|
-|Aug 31, 2019|Complete identification of the data fields required for the synthetic data set.|	Not Started        |
+|Aug 31, 2019|Complete identification of the data fields required for the synthetic data set.|	Not Started                    |
+
+
+
+
 |            |Determine all data selection criteria (EHR date range, Patient age range etc.) |	Not Started             |
 |Sep 30, 2019|Produce the synthetic data file.                                               |	Not Started |
 |Oct 31, 2019|Participate in defining the Challenge                                          |Not Started        	| 
