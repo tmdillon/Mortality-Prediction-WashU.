@@ -35,13 +35,18 @@ Deliverables
 •	Design of additional predictive model use cases
 
 Timeline (monthly)
-Due Date	Milestone	Status
-Aug 31 2019	Complete identification of the data fields required for the synthetic data set.    Determine all data selection criteria (EHR date range, Patient age range etc.)   	Not Started
-Sept 30 2019	Produce the synthetic data file.	Not Started
-Oct 31, 2019	Using a sample algorithm(s) validate that the synthetic dataset is producing expected results	Not Started
-Dec 31 2019	Create and execute a use case that compares Algorithm results produced from synthetic data to results produced from University of Washington data.	Not Started
-Oct 2019	Participate in defining the Challenge	Not Started
-March 2020	Participate in evaluating algorithms submitted to the challenge	Not Started
+|Due Date	|Milestone|	Status |
+|------------|-------------------------------------------------------------------------------|	Not Started--------------------|
+|Aug 31, 2019|Complete identification of the data fields required for the synthetic data set.|	-------------------|
+| |Determine all data selection criteria (EHR date range, Patient age range etc.)|	Not Started--------------------|
+|Sep 30, 2019|Produce the synthetic data file.|	Not Started--------------------|
+|Dec 31, 2019|Create and execute a use case that compares Algorithm results produced|Not Started	-------------------|
+|  |from synthetic data to results produced from University of Washington data.|	-------------------|
+|Oct 31, 2019|Participate in defining the Challenge|Not Started	|-------------------|
+|Mar 31, 2020|Participate in evaluating algorithms submitted to the challenge|Not Started	-------------------|
+
+
+
 
 
 
