@@ -1,9 +1,8 @@
 # Mortality-Prediction-WashU.
 
-## This project is within the Tools and Cloud Architecture Core.<h2>
- ###   Under the Dream Challenge Project.<h2>
-  ####      Mortality-Prediction-WashU.<h2>
-
+## 1. This project is within the Tools and Cloud Architecture Core. 
+## 2. Under the Dream Challenge Project.  
+## 3. Mortality-Prediction-WashU. 
 
 
 ************ WashU Mortality Prediction Contribution **************
